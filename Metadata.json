@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Humphrey",
+    "ContentSize": 30318,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-application-deploy-multi-tenant/master/Application_Get_Assign.ps1",
+    "DownloadCount": 767,
+    "Id": "Azure-Application-deploy-d6559126",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 366,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-9-18T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script is based on the available scripts at github, which uses Graph API in order to automate common tasks that would otherwise need to be carried out using the graphical interface of the Azure website, which can be time consuming, particulary if you need to carry out the sa",
+    "Title": "Azure Application deploy Multi Tenant",
+    "UpdatedDate": "2018-9-18T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-application-deploy-multi-tenant",
+    "UserTags": "Windows Azure PowerShell, Azure Automation, Deploy Application Using Intune"
+}
